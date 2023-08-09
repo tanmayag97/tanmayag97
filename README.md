@@ -1,4 +1,3 @@
-### Hi there 👋
 
 # Hi there, My name is Tanmay Agarwal
 
@@ -6,7 +5,7 @@
 My Education:
 - [Master of Science in Data Science](https://masterdatascience.ubc.ca/) from the University of British Columbia.
 
-For almost three years, I have worked with Symphony AI and its subsidiaries.
+For almost three years, I have worked with Symphony AI and its subsidiaries as a Data Scientist.
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> What I know
